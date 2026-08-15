@@ -41,6 +41,3 @@ It can be useful for practicing:
 
 **SQL | MySQL | Data Analysis | Data Exploration | Structured Data**
 
-## Note
-
-This repository contains the dataset used for SQL learning and practice purposes.
